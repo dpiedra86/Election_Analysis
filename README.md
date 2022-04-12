@@ -12,6 +12,7 @@ Module 3
 
 ## Resources
 -[election_results.csv](https://github.com/dpiedra86/Election_Analysis/blob/main/Resources/election_results.csv)
+
 -Software: Python 3.9.11, Visual Studio Code, V 1.66.1
 
 ## Analysis Results
