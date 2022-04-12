@@ -21,18 +21,22 @@ Module 3
 ## Summary
 The election anlysis contains the following information:
 
-Election Results
--------------------------
+>Election Results
+
 Total Votes : 369,711
--------------------------
+
 Charles Casper Stockham: 23.0% (85,213)
+
 Diana DeGette: 73.8% (272,892)
+
 Raymon Anthony Doane: 3.1% (11,606)
-------------------------
-winner:Diana DeGette
-winning vote count : 272,892
+
+Winner:Diana DeGette
+
+Winning Vote count : 272,892
+
 Winning Percentage : 73.8%
-------------------------
+
 
 ## Challenge Overview
 
