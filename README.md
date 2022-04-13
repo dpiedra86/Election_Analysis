@@ -20,8 +20,8 @@ Module 3
 
 ## Challenge Overview
 
-The objective of the challenge is to read and organize the information given from an election result and sort in a clear way so anyone can read and understand the results. 
-The requested language to create this analysis was python. 
+The objective of the challenge is to use python and create a code to read and organize the information given from a local Colorado election and summarize the results. 
+ 
 
 ## Summary
 The election anlysis contains the following information:
