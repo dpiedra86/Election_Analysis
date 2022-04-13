@@ -48,5 +48,9 @@ The election anlysis contains the following information:
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+### Other uses for this code:
+
+The code can be used for tracking product transactions for a bank or an e-commerce.
+The code can be used to track creativity performance in advertising.
 
 
