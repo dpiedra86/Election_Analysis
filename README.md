@@ -18,28 +18,35 @@ Module 3
 ## Analysis Results
 -[election_analysis.txt](https://github.com/dpiedra86/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
+## Challenge Overview
+
+The objective of the challenge is to read and organize the information given from an election result and sort in a clear way so anyone can read and understand the results. 
+The requested language to create this analysis was python. 
+
 ## Summary
 The election anlysis contains the following information:
 
 >Election Results
+- Total Votes: 369,711
 
-Total Votes : 369,711
+> County Votes:
 
-Charles Casper Stockham: 23.0% (85,213)
+- Jefferson: 10.51% (38,855)
+- Denver: 82.78% (306,055)
+- Arapahoe: 6.71% (24,801)
 
-Diana DeGette: 73.8% (272,892)
+ Denver had the largest county turnout with 306,055 votes
 
-Raymon Anthony Doane: 3.1% (11,606)
+> Candidate Results:
 
-Winner:Diana DeGette
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
-Winning Vote count : 272,892
+> Winner Results:
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 
-Winning Percentage : 73.8%
-
-
-## Challenge Overview
-
-## Challenge Summary 
 
 
